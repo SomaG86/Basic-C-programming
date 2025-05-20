@@ -1,8 +1,9 @@
 # Basic-C-programming
+
 <b>Here is 8 phase program for beginners</b>
 <br>
-1) Surface are and volume of cylinder<br>
-2) Temprature conversion<br>
+1)Surface are and volume of cylinder<br>
+2)Temprature conversion<br>
 3)finding final velocity and distance traveled<br>
 4)Ring Perimeter and Area<br>
 5)Arithmetic and Harmonic Mean<br>
